@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Alex Krut
 
 
-![Profile Cover](https://user-images.githubusercontent.com/92830192/179379987-c6138662-3dfb-461d-8c8c-fcfa903a2397.jpg)
+![Profile Cover](https://user-images.githubusercontent.com/92830192/189809558-917b8c5f-e695-4a22-9a8e-63df21e5465c.png)
 
 <hr>
 <!-- MAIN SECTION -->
@@ -12,6 +12,7 @@
       <span align="center">Learning by genuinely listening and empowering others is what drives me every day.</span>
     </h4>
 </span>
+
 
 <!-- ABOUT YOU -->
 <hr>
