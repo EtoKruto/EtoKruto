@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Alex Krut
 
 
-![Profile Cover](https://user-images.githubusercontent.com/92830192/190306911-ce075100-46db-4de3-b440-656205cb12dd.png)
+![Profile Cover](https://user-images.githubusercontent.com/92830192/190307156-a4f6aa86-e6ce-4f79-8902-a116023d5b2c.png)
 
-<hr>
+
 <!-- MAIN SECTION -->
 <span align="center">
   <span>
