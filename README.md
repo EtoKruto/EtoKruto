@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Alex Krut
 
 
-![Profile Cover](https://user-images.githubusercontent.com/92830192/189809558-917b8c5f-e695-4a22-9a8e-63df21e5465c.png)
+![Profile Cover](https://user-images.githubusercontent.com/92830192/190306911-ce075100-46db-4de3-b440-656205cb12dd.png)
 
 <hr>
 <!-- MAIN SECTION -->
