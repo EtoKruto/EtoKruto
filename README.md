@@ -1,4 +1,5 @@
-![Profile Cover](https://user-images.githubusercontent.com/92830192/190307156-a4f6aa86-e6ce-4f79-8902-a116023d5b2c.png)
+![Profile Cover](https://user-images.githubusercontent.com/92830192/218364870-8a0d0d70-714f-4f7c-8591-a79d80cb2bd7.png)
+
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Krut
 
