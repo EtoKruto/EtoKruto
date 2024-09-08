@@ -19,7 +19,7 @@
 <hr>
 <h3 align="center">I enjoy the creative side of coding, solving interesting problems and taking on new challenges.</h3>
 <h4 align="center"> Mainly just trying to stay curious </h4>
-<h5 align="center">🌍  I'm based in San Diego</h5>
+<h5 align="center">🌍  I'm based in Irvine</h5>
 <h5 align="center">🔭 I’m currently enjoying working on personal and professional projects</h5>
 <h5 align="center">🧠  I’m currently learning <strong>NextJS/Svelte/AWS Certification/Solidity/Python</strong></h5>
 <h5 align="center">📫 Feel free to connect with me at any time:<strong>AlexanderAKrut@gmail.com</strong></h5>
