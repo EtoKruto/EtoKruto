@@ -1,47 +1,62 @@
 # Alexander Krut
-### Full-Stack Software Developer
 
-I build practical, production-oriented web applications with a strong focus on clean APIs, reliable backend logic, and polished frontend experiences.
+### Full-Stack Developer | Orchestrating Systems for Every Scale
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Krut-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderkrut/)
-[![Email](https://img.shields.io/badge/Email-alexanderakrut%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:alexanderakrut@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-EtoKruto-181717?logo=github&logoColor=white)](https://github.com/EtoKruto)
+I take messy ideas and turn them into reliable products people can actually use - from UI to data pipeline.
 
-## What I Build
-- Full-stack JavaScript/TypeScript applications
-- REST APIs and backend services with Node.js + Express
-- Modern frontend apps with React and Next.js
-- Data-driven applications using SQL and NoSQL databases
+## How I Work and What I Build
 
-## Technical Stack
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `GraphQL`  
-`PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase`  
-`Docker` `AWS` `Git` `Linux`
-
-## Featured Projects
-- [Darwin Elite Tracker](https://github.com/EtoKruto/Darwin-Elite-Tracker)  
-  Performance tracking app for coding practice and progress analysis.
-- [Atelier Questions & Answers API](https://github.com/EtoKruto/Atelier_Questions-and-Answers-API)  
-  Backend API for an e-commerce product details Q&A system.
-- [Atelier](https://github.com/EtoKruto/Atelier)  
-  Frontend implementation for a product details experience.
-- [YourPick](https://github.com/EtoKruto/YourPick)  
-  Decision-support app that helps couples choose meals through a guided selection flow.
+- Turns messy, ambiguous problems into stable, shippable systems.
+- Builds full-stack products where polished UX meets backend reliability.
+- Designs automation and data pipelines that eliminate repetitive work and keep traceability tight.
+- Runs docs-first execution with clear runbooks, fast onboarding, and clean handoffs.
+- Brings calm ownership in release windows, unblocks teammates quickly, and ships with risk-aware decisions.
 
 ## Current Focus
-- Building better full-stack products end-to-end
-- Deepening expertise in `Next.js`, `Svelte`, `Python`, and cloud deployment workflows
-- Growing in system design, performance, and engineering leadership
 
-## Open To
-I am open to software engineering opportunities where I can contribute to product quality, team velocity, and user impact.
+- AI-assisted engineering workflows and automation
+- Data quality, platform resiliency, and deployment velocity
+- Stronger system design and end-to-end ownership in complex domains
 
-If you are hiring, feel free to reach out:
-- LinkedIn: [linkedin.com/in/alexanderkrut](https://www.linkedin.com/in/alexanderkrut/)
-- Email: [alexanderakrut@gmail.com](mailto:alexanderakrut@gmail.com)
+## Contact
+
+If you are hiring, recruiting, or looking to collaborate:
+
+**[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Alexander_Krut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderkrut/)**
+
+**[![Email Me](https://img.shields.io/badge/Email_Me-alexanderakrut%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderakrut@gmail.com)**
+
+---
+
+## Technical Stack
+
+**Frontend**  
+`JavaScript` `TypeScript` `React` `Next.js` `Svelte` `Angular` `HTML5` `CSS3` `Sass` `Bootstrap` `Material UI` `Redux` `Chart.js`
+
+**Backend**  
+`Node.js` `Express.js` `GraphQL` `REST API` `Python` `Scala` `C#` `.NET` `SQL` `NoSQL`
+
+**Data Engineering**  
+`Apache Spark` `PySpark` `Apache Kafka` `Hadoop` `HDFS` `Hive` `Databricks` `Teradata` `Dremio` `Cloudera` `ETL` `Data Validation` `Data Mapping`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Firebase` `Supabase`
+
+**Cloud and DevOps**  
+`AWS` `Azure` `Google Cloud Platform` `Docker` `Linux` `CI/CD` `Jenkins` `Artifactory` `UrbanCode` `SonarQube` `Splunk`
+
+**Workflow and Quality**  
+`Git` `GitHub` `Jira` `Confluence` `Agile` `SDLC` `DevSecOps` `Unit Testing` `Functional Testing` `SIT` `UAT` `Regression Testing` `Performance Testing` `Release Management` `BCP`
+
+**Tooling**  
+`Shell Scripting` `PowerShell` `Command Line` `Gradle` `Power BI`
+
+**Web3 (Exploration)**  
+`Solidity` `Ethereum` `Avalanche` `MetaMask`
 
 ---
 
 ## GitHub Snapshot
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EtoKruto&show_icons=true&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoKruto&layout=compact&langs_count=8)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EtoKruto&theme=github_dark)
+![Contribution Streak](https://streak-stats.demolab.com?user=EtoKruto&theme=transparent&hide_border=true)
